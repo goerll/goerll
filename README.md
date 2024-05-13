@@ -1,14 +1,36 @@
-## <p align="center">Hi there!<img src="https://em-content.zobj.net/thumbs/320/apple/354/waving-hand_1f44b.png" width="25" height="25"><br> I'm Estevão</p>
+#### Hi there!
+👋  I'm Estevão and I study computer science<br>🎓 I'm on my third semester studying at Instituto Federal Catarinense <br> 🎸 Besides coding, I love music and specially playing the guitar!
 
-### About me
-- <img src="https://em-content.zobj.net/thumbs/320/apple/354/books_1f4da.png" width="23"> I'm going on my third semester studying Computer Science at Instituto Federal Catarinense
+#### About me
+Stuff I use and find cool: <br>
+  ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg)
+  ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/EndeavourOS/endeavouros2.svg)
 
-- Currently learning: <br>
-  [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org) 
+Technologies I'm familiar with: <br>
+  ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg)
+  ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
+  ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
+  ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+  ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg)
 
+  <!-- ![My Skills](https://skillicons.dev/icons?i=git) -->
+  <!-- ![My Skills](https://skillicons.dev/icons?i=github) -->
+  <!-- ![My Skills](https://skillicons.dev/icons?i=neovim) -->
+  <!-- ![My Skills](https://skillicons.dev/icons?i=python) -->
+  <!-- ![My Skills](https://skillicons.dev/icons?i=html) -->
+  <!-- ![My Skills](https://skillicons.dev/icons?i=css) -->
+Learning: <br>
+  ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
+  ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+
+  <!-- ![My Skills](https://skillicons.dev/icons?i=cpp) -->
+  <!-- ![My Skills](https://skillicons.dev/icons?i=c) -->
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goerll&custom_title=My%20GitHub%20Activity&bg_color=0D1117&color=a6c8ff&line=a6c8ff&border_color=a3eaeb&point=a6c8ff&area_color=81a1c1&title_color=FFFFFF&area=true)
 ### How to reach me
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:estevaogoerlln@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](www.linkedin.com/in/estevaogoerll)
+[![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](mailto:estevaogoerlln@gmail.com)
+[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](www.linkedin.com/in/estevaogoerll)
 
 <!--
 I see you're looking for something 👀
