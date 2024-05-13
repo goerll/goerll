@@ -8,7 +8,6 @@ Stuff I use and find cool: <br>
 
 Technologies I'm familiar with: <br>
   ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg)
-  ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
   ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
   ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
   ![My Skills](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
