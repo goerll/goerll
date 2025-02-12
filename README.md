@@ -1,5 +1,5 @@
 #### Hi there!
-👋  I'm Estevão and I study computer science<br>🎓 I'm on my third semester studying at Instituto Federal Catarinense <br> 🎸 Besides coding, I love music and specially playing the guitar!
+👋  I'm Estevão and I study computer science<br>🎓 I'm on my fifth semester studying at Instituto Federal Catarinense <br> 🎸 Besides coding, I love music and specially playing the guitar!
 
 #### About me
 Stuff I use and find cool: <br>
