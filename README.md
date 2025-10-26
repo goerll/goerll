@@ -1,12 +1,11 @@
 #### Hi there!
-👋  I'm Estevão and I study computer science<br>🎓 I'm on my fifth semester studying at Instituto Federal Catarinense <br> 🎸 Besides coding, I love music and specially playing the guitar!
+👋  I'm Estevão and I study computer science<br>🎓 I'm on my sixth semester studying at Instituto Federal Catarinense <br> 🎸 Besides coding, I love music and specially playing the guitar!
 
 #### About me
 Stuff I use and find cool: <br>
   ![neovim](https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg)
-  ![endeavouros](https://ziadoua.github.io/m3-Markdown-Badges/badges/EndeavourOS/endeavouros2.svg)
 
-Technologies I'm familiar with: <br>
+Familiar with: <br>
   ![git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg)
   ![python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
   ![html](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
